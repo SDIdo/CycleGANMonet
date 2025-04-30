@@ -8,6 +8,7 @@ Our results: <br> <img src="https://github.com/SDIdo/SDido-Portfolio/raw/main/im
 Notebooks are available at Google Colab.
 <br>
 Train: https://colab.research.google.com/drive/1M9QH980SRUT006XzQiWi1JBbJmV89QGd
+<br>
 Inference: https://colab.research.google.com/drive/1kx4vtgx10lBqsbpqo7etb98L-Iwni6rI
 
 Please refer to the attached [Project Report](Project%20Report.pdf) for more inside elaboration on implementation.
